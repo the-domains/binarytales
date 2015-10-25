@@ -1,0 +1,23 @@
+name: Binarytales
+favicon: null
+layout_spectrum: 0.08866763720288873
+typography_spectrum: 0.169691429939121
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8489205355290323
+  lightness: 0.24411681341007352
+  saturation: 0.44246630440466106
+  rhythmicContrast: 0.6642086114734411
+purpose: []
